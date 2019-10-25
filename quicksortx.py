@@ -23,32 +23,51 @@ data_file.close()
 
 
 
+def largex ():
+    xmax = ListOfData[0][1]
+    for i in range(len(ListOfData)-1):
+        if ListOfData[i][1] >= xmax:
+           xmax = ListOfData[i][1]       
+    print("xmax: ", xmax)
+    return xmax
+
+def minix ():
+    xmin = ListOfData[0][1]
+    for i in range(len(ListOfData)-1):
+        if ListOfData[i][1] <= xmin:
+           xmin = ListOfData[i][1]
+    print("xmin: ", xmin)
+    return xmin
+
+
+
+
 
 def partitionx(ListOfData, low, high):
-    i = low
-    print(i)
+    i = low -1
     pivot = ListOfData[high][1]
 
     for j in range(low, high):
         if ListOfData[j][1] <= pivot:
             i = i+1
+            #print(j)
             ListOfData[i][1],ListOfData[j][1] = ListOfData[j][1],ListOfData[i][1]
-    ListOfData[i][1],ListOfData[high][1] = ListOfData[high][1],ListOfData[i][1]
+    #print(i)
+    ListOfData[i+1][1],ListOfData[high][1] = ListOfData[high][1],ListOfData[i+1][1]
     return (i+1)
 
 def quicksortx(ListOfData, low, high):
     if low < high:
         pi = partitionx(ListOfData,low,high)
-        print("asdaas")
-        quicksortx(ListOfData,low,pi+1)
+        quicksortx(ListOfData,low,pi-1)
         quicksortx(ListOfData,pi+1,high)
-
-
+        
+x=0
 low = 0
 high = len(ListOfData)-1
 #high = 39999
 quicksortx(ListOfData, low, high)
-#for i in range(len(ListOfData)-1):
-#    print (i,"  ",ListOfData[i][1])
+for i in range(len(ListOfData)-1):
+    print (i,"  ",ListOfData[i][1])
 #print(len(ListOfData)-1)
 
