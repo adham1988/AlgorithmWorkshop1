@@ -23,25 +23,6 @@ data_file.close()
 
 
 
-def largex ():
-    xmax = ListOfData[0][1]
-    for i in range(len(ListOfData)-1):
-        if ListOfData[i][1] >= xmax:
-           xmax = ListOfData[i][1]       
-    print("xmax: ", xmax)
-    return xmax
-
-def minix ():
-    xmin = ListOfData[0][1]
-    for i in range(len(ListOfData)-1):
-        if ListOfData[i][1] <= xmin:
-           xmin = ListOfData[i][1]
-    print("xmin: ", xmin)
-    return xmin
-
-
-
-
 
 def partitionx(ListOfData, low, high):
     i = low
@@ -51,10 +32,6 @@ def partitionx(ListOfData, low, high):
     for j in range(low, high):
         if ListOfData[j][1] <= pivot:
             i = i+1
-            if i > high:
-                i = high
-            if j > high:
-                j = high
             ListOfData[i][1],ListOfData[j][1] = ListOfData[j][1],ListOfData[i][1]
     ListOfData[i][1],ListOfData[high][1] = ListOfData[high][1],ListOfData[i][1]
     return (i+1)
