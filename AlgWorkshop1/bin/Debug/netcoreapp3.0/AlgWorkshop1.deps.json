@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AlgWorkshop1/1.0.0": {
+        "runtime": {
+          "AlgWorkshop1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgWorkshop1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

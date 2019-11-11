@@ -1,0 +1,11 @@
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\obj\Debug\netcoreapp3.0\AlgWorkshop1.csprojAssemblyReference.cache
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\obj\Debug\netcoreapp3.0\AlgWorkshop1.AssemblyInfoInputs.cache
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\obj\Debug\netcoreapp3.0\AlgWorkshop1.AssemblyInfo.cs
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.exe
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.deps.json
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.runtimeconfig.json
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.runtimeconfig.dev.json
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.dll
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\bin\Debug\netcoreapp3.0\AlgWorkshop1.pdb
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\obj\Debug\netcoreapp3.0\AlgWorkshop1.dll
+C:\Users\Abraham Antonisen\source\repos\AlgWorkshop1\AlgWorkshop1\obj\Debug\netcoreapp3.0\AlgWorkshop1.pdb
