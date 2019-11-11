@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Workshop-1-Algoritmer/1.0.0": {
+        "runtime": {
+          "Workshop-1-Algoritmer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workshop-1-Algoritmer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
