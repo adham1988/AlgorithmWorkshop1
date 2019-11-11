@@ -1,0 +1,11 @@
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.exe
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.deps.json
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.runtimeconfig.json
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.runtimeconfig.dev.json
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.dll
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\bin\Debug\netcoreapp3.0\Workshop-1-Algoritmer.pdb
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\obj\Debug\netcoreapp3.0\Workshop-1-Algoritmer.csprojAssemblyReference.cache
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\obj\Debug\netcoreapp3.0\Workshop-1-Algoritmer.AssemblyInfoInputs.cache
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\obj\Debug\netcoreapp3.0\Workshop-1-Algoritmer.AssemblyInfo.cs
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\obj\Debug\netcoreapp3.0\Workshop-1-Algoritmer.dll
+C:\Users\Abraham Antonisen\source\repos\Workshop-1-Algoritmer\Workshop-1-Algoritmer\obj\Debug\netcoreapp3.0\Workshop-1-Algoritmer.pdb
